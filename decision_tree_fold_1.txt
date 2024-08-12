@@ -1,0 +1,199 @@
+Predicted_PopularitySplit on Humor_Type <= 1
+Predicted_Popularity  Value 3:
+Predicted_Popularity    Split on Visual_Features <= 3
+Predicted_Popularity      Value 3:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity      Value 4:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity      Value 1:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity  Value 4:
+Predicted_Popularity    Split on Visual_Features <= 1
+Predicted_Popularity      Value 1:
+Predicted_Popularity        Split on Song <= 0
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Split on OP_Platform <= 2
+Predicted_Popularity              Value 2:
+Predicted_Popularity                Is_Popular => 0
+Predicted_Popularity              Value 1:
+Predicted_Popularity                Is_Popular => 1
+Predicted_Popularity              Value 0:
+Predicted_Popularity                Is_Popular => 0
+Predicted_Popularity      Value 0:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity      Value 3:
+Predicted_Popularity        Split on OP_Platform <= 0
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Split on Format <= 0
+Predicted_Popularity              Value 0:
+Predicted_Popularity                Is_Popular => 1
+Predicted_Popularity              Value 1:
+Predicted_Popularity                Is_Popular => 0
+Predicted_Popularity          Value 3:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity      Value 5:
+Predicted_Popularity        Split on Song <= 0
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity      Value 4:
+Predicted_Popularity        Split on OP_Platform <= 1
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity          Value 2:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity      Value 2:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity  Value 5:
+Predicted_Popularity    Split on Visual_Features <= 0
+Predicted_Popularity      Value 2:
+Predicted_Popularity        Split on OP_Platform <= 0
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Split on Format <= 0
+Predicted_Popularity              Value 2:
+Predicted_Popularity                Is_Popular => 1
+Predicted_Popularity              Value 0:
+Predicted_Popularity                Is_Popular => 0
+Predicted_Popularity              Value 1:
+Predicted_Popularity                Is_Popular => 1
+Predicted_Popularity          Value 2:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity      Value 5:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity      Value 0:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity  Value 6:
+Predicted_Popularity    Split on Visual_Features <= 1
+Predicted_Popularity      Value 2:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 4:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity      Value 0:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 5:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 1:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 3:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity  Value 2:
+Predicted_Popularity    Split on Visual_Features <= 1
+Predicted_Popularity      Value 2:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity      Value 1:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity  Value 1:
+Predicted_Popularity    Split on OP_Platform <= 0
+Predicted_Popularity      Value 2:
+Predicted_Popularity        Split on Visual_Features <= 4
+Predicted_Popularity          Value 5:
+Predicted_Popularity            Split on Song <= 0
+Predicted_Popularity              Value 0:
+Predicted_Popularity                Is_Popular => 0
+Predicted_Popularity              Value 1:
+Predicted_Popularity                Is_Popular => 1
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Split on Song <= 1
+Predicted_Popularity              Value 1:
+Predicted_Popularity                Is_Popular => 0
+Predicted_Popularity              Value 0:
+Predicted_Popularity                Is_Popular => 1
+Predicted_Popularity          Value 4:
+Predicted_Popularity            Split on Song <= 1
+Predicted_Popularity              Value 1:
+Predicted_Popularity                Is_Popular => 1
+Predicted_Popularity              Value 0:
+Predicted_Popularity                Is_Popular => 0
+Predicted_Popularity          Value 6:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity          Value 2:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity      Value 5:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 0:
+Predicted_Popularity        Split on Song <= 1
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity      Value 3:
+Predicted_Popularity        Split on Visual_Features <= 6
+Predicted_Popularity          Value 5:
+Predicted_Popularity            Split on Visual_Features <= 5
+Predicted_Popularity              Value 5:
+Predicted_Popularity                Split on Visual_Features <= 5
+Predicted_Popularity                  Value 5:
+Predicted_Popularity                    Split on Visual_Features <= 5
+Predicted_Popularity                      Value 5:
+Predicted_Popularity                        Split on Visual_Features <= 5
+Predicted_Popularity                          Value 5:
+Predicted_Popularity                            Split on Humor_Type <= 1
+Predicted_Popularity                              Value 1:
+Predicted_Popularity                                Split on Format <= 1
+Predicted_Popularity                                  Value 1:
+Predicted_Popularity                                    Split on Visual_Features <= 5
+Predicted_Popularity                                      Value 5:
+Predicted_Popularity                                        Is_Popular => 0
+Predicted_Popularity          Value 6:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity      Value 1:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity  Value 0:
+Predicted_Popularity    Split on OP_Platform <= 5
+Predicted_Popularity      Value 4:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 2:
+Predicted_Popularity        Split on Song <= 1
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity      Value 0:
+Predicted_Popularity        Split on Visual_Features <= 1
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity          Value 4:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity      Value 3:
+Predicted_Popularity        Split on Visual_Features <= 4
+Predicted_Popularity          Value 4:
+Predicted_Popularity            Split on Visual_Features <= 4
+Predicted_Popularity              Value 4:
+Predicted_Popularity                Split on Song <= 0
+Predicted_Popularity                  Value 0:
+Predicted_Popularity                    Split on Visual_Features <= 4
+Predicted_Popularity                      Value 4:
+Predicted_Popularity                        Split on Format <= 1
+Predicted_Popularity                          Value 1:
+Predicted_Popularity                            Split on Song <= 0
+Predicted_Popularity                              Value 0:
+Predicted_Popularity                                Split on Visual_Features <= 4
+Predicted_Popularity                                  Value 4:
+Predicted_Popularity                                    Split on Song <= 0
+Predicted_Popularity                                      Value 0:
+Predicted_Popularity                                        Is_Popular => 0
+Predicted_Popularity          Value 0:
+Predicted_Popularity            Is_Popular => 1
+Predicted_Popularity          Value 5:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity          Value 1:
+Predicted_Popularity            Is_Popular => 0
+Predicted_Popularity      Value 1:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 5:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity  Value 7:
+Predicted_Popularity    Split on Visual_Features <= 1
+Predicted_Popularity      Value 3:
+Predicted_Popularity        Is_Popular => 1
+Predicted_Popularity      Value 4:
+Predicted_Popularity        Is_Popular => 0
+Predicted_Popularity      Value 1:
+Predicted_Popularity        Is_Popular => 1
